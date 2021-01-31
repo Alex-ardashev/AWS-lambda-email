@@ -2,3 +2,5 @@
 Serverless email formation and sending
 
 Layer used: pandas_gbq
+AWS Lambda
+Eventbridge
